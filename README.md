@@ -56,11 +56,9 @@ wallet.send_transaction()
 ```
  
 ## Contributing
-
 We welcome contributions from the community to improve the School Metaverse project! To contribute, please follow these guidelines or our [contribution guidelines](CONTRIBUTING.md) before submitting pull requests or issues:
 
 ### How to Contribute
-
 1. Fork the repository and clone it to your local machine.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature/my-feature`.
 3. Make your changes and test thoroughly.
@@ -69,7 +67,6 @@ We welcome contributions from the community to improve the School Metaverse proj
 6. Submit a pull request detailing the changes made.
 
 ### Contribution Guidelines
-
 Before submitting a pull request, ensure that:
 
 - Your code follows the project's coding style and conventions.
@@ -94,4 +91,11 @@ Join our vibrant community on:
 This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
-- Special thanks to [...]
+This project is currently maintained by a single contributor. I would like to acknowledge the following individuals/resources for their valuable contributions, guidance, or inspiration in the development of the School Metaverse:
+
+- Satoshi Nakamoto: For publishing Bitcoin's withepaper.
+- Online Tutorials: For providing insights into distributed systems.
+- Open Source Community: For inspiring ideas and best practices.
+
+I am also grateful to everyone who might contribute in the future to make this project even better.
+
